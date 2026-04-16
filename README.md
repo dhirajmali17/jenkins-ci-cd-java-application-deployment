@@ -13,6 +13,7 @@ The process automates the entire workflow — from pulling code to deploying it 
 
 ```
 jenkins-ci-cd-java-deployment/
+│── architecture/
 │── screenshots/
 │── project-docs/
 │   └── Automated Java Application Deployment Using Jenkins.pdf
