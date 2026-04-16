@@ -28,6 +28,7 @@ jenkins-ci-cd-java-deployment/
 * **GitHub** → Source Code Repository  
 
 ![CI/CD Architecture](./architecture/architecture-diagram.png)
+
 ```
 ---
 
