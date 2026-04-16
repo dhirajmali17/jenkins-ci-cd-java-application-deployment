@@ -119,14 +119,14 @@ jenkins-ci-cd-java-deployment/
 
 ## 📄 Documentation
 
-📘 Detailed step-by-step documentation is available here:
-👉 `project-docs/Automated Java Application Deployment Using Jenkins.pdf`
+📘 Detailed step-by-step documentation is available here:  
+👉 [View Full Documentation](./project-docs/Automated%20Java%20Application%20Deployment%20Using%20Jenkins.pdf)
 
 ---
 
 ## 🎯 Key Features
 
-* Automated CI/CD pipeline
+* Automated build and deployment using Jenkins (CI/CD)
 * Maven-based build system
 * Remote deployment to Tomcat
 * SCM polling for automation
