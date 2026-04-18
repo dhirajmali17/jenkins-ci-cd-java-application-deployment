@@ -12,7 +12,7 @@ The process automates the entire workflow — from pulling code to deploying it 
 ## 📂 Project Structure
 
 ```
-jenkins-ci-cd-java-deployment/
+jenkins-ci-cd-java-application-deployment/
 │── architecture/
 │── screenshots/
 │── project-docs/
